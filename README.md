@@ -1,4 +1,4 @@
-# AuthFree — авторизация Hytale-сервера на любом хостинге без изменения команды запуска
+# AuthFree — аутентификация Hytale-сервера на любом хостинге без изменения команды запуска
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Hytale Version](https://img.shields.io/badge/Hytale-Early%20Access%202026-blue)
@@ -88,7 +88,7 @@ Token expires in: 3258s
 | `refresh_interval_hours` | Интервал автоматического обновления токенов (в часах). `0` – отключено.                               |
 
 ## 📜 Лицензия
-MIT License. См. файл LICENSE.
+MIT License. См. файл [LICENSE](https://github.com/DmFors/hytale-auth-free/blob/main/LICENSE).
 
 ## 🙏 Благодарности
 [sanasol](https://github.com/sanasol/hytale-auth-server) - за hytale-auth-server и DualAuthPatcher.
