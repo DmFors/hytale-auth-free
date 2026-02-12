@@ -1,0 +1,20 @@
+{
+    "Group": "dev.hytalemodding",
+    "Name": "AuthFree",
+    "Version": "1.0",
+    "Description": "Automatic authentication token injector",
+    "Authors": [
+        {
+            "Name": "DmFors",
+            "Email": "dmfors.dev@gmail.com",
+            "Url": "https://github.com/DmFors"
+        }
+    ],
+    "Website": "https://github.com/DmFors/hytale-auth-free",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": false,
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "ServerVersion": "*",
+    "Main": "dev.hytalemodding.authfree.AuthFreePlugin"
+}
