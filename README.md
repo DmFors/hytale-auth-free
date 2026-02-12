@@ -1,10 +1,7 @@
-# Аутентификация Hytale-сервера на любом хостинге без изменения команды запуска
+# AuthFree - это DualAuth на любом хостинге без изменения команды запуска HytaleServer.jar
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Hytale Version](https://img.shields.io/badge/Hytale-Early%20Access%202026-blue)
-
-**AuthFree** - это плагин, который позволяет использовать DualAuth без изменения
-стандартной команды запуска HytaleServer.jar
 
 ---
 
